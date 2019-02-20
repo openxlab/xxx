@@ -15,3 +15,8 @@ sudo echo "net.ipv4.tcp_congestion_control=bbr" | sudo tee --append /etc/sysctl.
 sudo sysctl -p
 sudo sysctl net.ipv4.tcp_available_congestion_control
 sudo lsmod | grep bbr
+
+curl -sL -O https://github.com/Wind4/vlmcsd/releases/download/svn1112/binaries.tar.gz
+tar -xvf binaries.tar.gz
+chmod u+x ./binaries/Linux/intel/static/vlmcsd-x64-musl-static
+./binaries/Linux/intel/static/vlmcsd-x64-musl-static
