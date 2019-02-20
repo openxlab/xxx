@@ -7,6 +7,7 @@ pip --version
 
 
 sudo pip install shadowsocks
+sudo sed -i 's/cleanup/reset/' /usr/local/lib/python2.7/dist-packages/shadowsocks/crypto/openssl.py
 sudo /usr/bin/python /usr/local/bin/ssserver -s 0.0.0.0 -p 9443 -k sss2019 -m aes-256-cfb --user nobody -d start &
 
 
