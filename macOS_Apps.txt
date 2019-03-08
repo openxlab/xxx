@@ -1,3 +1,4 @@
+https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md
 
 #eZip
 https://ezip.awehunt.com/?locale=zh-Hans-CN
@@ -9,7 +10,21 @@ https://support.wdc.com/product.aspx?ID=242&lang=en#WD_downloads
 
 #Office for Mac
 https://docs.microsoft.com/en-us/officeupdates/update-history-office-for-mac
+https://macadmins.software/
+wmic os get caption
+slmgr /skms 35.232.65.173
+slmgr /ato
 
 #ShadowsocksX-NG-R
 https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
+
+#IINA
+https://www.iina.io/
+
+#iTerm2
+https://www.iterm2.com/
+https://ohmyz.sh/
+
+#HP Printer
+https://123.hp.com/cn/zh/devices/dj3630
 
