@@ -25,6 +25,9 @@ https://www.iina.io/
 https://www.iterm2.com/
 https://ohmyz.sh/
 
+#FDM
+https://freedownloadmanager.org
+
 #HP Printer
 https://123.hp.com/cn/zh/devices/dj3630
 
