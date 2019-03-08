@@ -1,5 +1,9 @@
 https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md
 
+#Browser
+https://www.mozilla.org/en-US/firefox/beta/all/
+https://www.google.com/intl/zh-CN/chrome/?standalone=1
+
 #eZip
 https://ezip.awehunt.com/?locale=zh-Hans-CN
 
